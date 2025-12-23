@@ -210,13 +210,13 @@ function initSettings(panel) {
             '<p>' +
               '<a href="https://sirrebrl.github.io/CIFIsuper/" target="_blank">Created</a> by @sirrebrl. ' +
               '<a href="https://github.com/1pete/cifi-proj" target="_blank">Modified</a> by @1pete.' +
+              '<a href="https://github.com/thatrailsguy/cifi-proj" target="_blank">Modified</a> by @thatrailsguy.' +
               '</p>',
           ),
         )
-        .append($('<p>Status: discontinued</p>'))
         .append(
           $(
-            '<p><a href="https://github.com/1pete/cifi-proj/pulls" target="_blank">Pull requests</a>' +
+            '<p><a href="https://github.com/thatrailsguy/cifi-proj/pulls" target="_blank">Pull requests</a>' +
               ' are welcome. You can also fork for your own version. :)</p>',
           ),
         ),
