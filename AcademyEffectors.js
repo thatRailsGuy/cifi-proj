@@ -764,24 +764,11 @@ academyEffectorPortal.pages.default.initFunction = function (panel) {
       'Some researches are named wrong in-game, try match them with research bonus instead.',
     ]
 
-    const notes = [
-      "It's in-game mislabeled as Mission Analysis 3",
-      "It's in-game mislabeled as Mission Analysis 4",
-      "It's in-game mislabeled as Perfection Analysis 2",
-      "It's in-game mislabeled as Perfection Analysis 3",
-    ]
-
     $(
       '<div class="section-3 font-normal" style="font-size: 0.8em; max-width: 400px;">',
     )
       .append($('<h6>Tips</h6>'))
       .append($('<ol>').append(tips.map((tip) => $('<li>').text(tip))))
-      .append($('<h6>Notes</h6>'))
-      .append(
-        notes.map((note, i) => {
-          return $(`<p><span class="text-super">${i + 1}</span> : ${note}</p>`)
-        }),
-      )
       .appendTo(wrapper)
   } catch (e) {
     console.error(e)
