@@ -226,7 +226,7 @@ const sections = [
       {
         id: 'mission1',
         type: 'select',
-        label: 'Mission Analysis 1',
+        label: 'Research 43',
         maxLevel: 6,
         text: 'Material:  Lv2 x1.5, Lv4 x1.5, Lv6 x1.5',
         textClassName: 'font-normal',
@@ -234,7 +234,7 @@ const sections = [
       {
         id: 'mission2',
         type: 'select',
-        label: 'Mission Analysis 2',
+        label: 'Research 55',
         maxLevel: 6,
         text: 'Material:  Lv2 x1.75, Lv4 x1.75, Lv6 x1.75',
         textClassName: 'font-normal',
@@ -242,7 +242,7 @@ const sections = [
       {
         id: 'mission3',
         type: 'select',
-        label: 'Mission Analysis 3',
+        label: 'Research 58',
         maxLevel: 6,
         text: 'Speed: Lv1 x1.05, Lv3: x1.05, Lv5: x1.05',
         textClassName: 'font-normal',
@@ -250,7 +250,7 @@ const sections = [
       {
         id: 'mission4',
         type: 'select',
-        label: 'Mission Analysis <s>4</s>3 <span class="text-super">1</c>',
+        label: 'Research 67',
         maxLevel: 6,
         text: 'Material:  Lv2 x2, Lv4 x3, Lv6 x4',
         textClassName: 'font-normal',
@@ -258,7 +258,7 @@ const sections = [
       {
         id: 'mission5',
         type: 'select',
-        label: 'Mission Analysis <s>5</s>4 <span class="text-super">2</c>',
+        label: 'Research 77',
         maxLevel: 6,
         text: 'Material:  Lv2 x3, Lv4 x4, Lv6 x5',
         textClassName: 'font-normal',
@@ -266,7 +266,7 @@ const sections = [
       {
         id: 'perfection2',
         type: 'select',
-        label: 'Perfection Analysis 2',
+        label: 'Research 60',
         maxLevel: 6,
         text: 'Material:  Lv2 x5',
         textClassName: 'font-normal',
@@ -274,7 +274,7 @@ const sections = [
       {
         id: 'perfection3',
         type: 'select',
-        label: 'Perfection Analysis <s>3</s>2 <span class="text-super">3</c>',
+        label: 'Research 70',
         maxLevel: 6,
         text: 'Lv2: Material x5; Lv5: Speed *2',
         textClassName: 'font-normal',
@@ -282,7 +282,7 @@ const sections = [
       {
         id: 'perfection4',
         type: 'select',
-        label: 'Perfection Analysis <s>4</s>3 <span class="text-super">4</c>',
+        label: 'Research 80',
         maxLevel: 6,
         text: 'Lv2: Material x9; Lv5: Speed *2',
         textClassName: 'font-normal',
@@ -290,7 +290,7 @@ const sections = [
       {
         id: 'construction1',
         type: 'select',
-        label: 'Construction Analysis 1',
+        label: 'Research 62',
         maxLevel: 6,
         text: 'Proj Cost: - , /1.5 , - , /2, - , /2.5',
         textClassName: 'font-normal',
@@ -298,7 +298,7 @@ const sections = [
       {
         id: 'construction2',
         type: 'select',
-        label: 'Construction Analysis 2',
+        label: 'Research 72',
         maxLevel: 6,
         text: 'Proj Cost: - , /2 , /3 , /3 , /4 , /4',
         textClassName: 'font-normal',
